@@ -1,0 +1,5 @@
+my_hbd_app/
+│
+├── app.py               # ไฟล์ Python หลัก
+└── templates/
+    └── index.html       # หน้าเว็บ HBD
